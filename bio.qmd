@@ -5,7 +5,7 @@ title: "Meet the Scientists"
 ::: {.columns}
 
 ::: {.column width="50%"}
-![](images/nicki.png){width="80%"}
+![](images/nicki.png)
 
 ### Dr. Nicki Barbour
 **Lead Principal Investigator**  
@@ -15,12 +15,10 @@ Dr Nicki Barbour is an Assistant Professor at Towson University and runs the “
 :::
 
 ::: {.column width="50%"}
-![](images/harald.png){width="80%"}
+![](images/harald.png)
 
 ### Dr. Harald Beck
 **Co-Principal Investigator**
-
-![](images/harald.png)
 
 Dr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland. 
 

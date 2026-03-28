@@ -5,6 +5,7 @@ project:
 website:
   title: "Baltimore City Canid Project"
   navbar:
+    logo: images/BCCanidProject_Logo
     left:
       - text: "About the Project"
         href: index.qmd
