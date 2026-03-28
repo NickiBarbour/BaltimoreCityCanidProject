@@ -4,7 +4,7 @@ title: "Meet the Scientists"
 
 ## The Team
 
-### Dr. Nicki Barbour  
+### Dr. Nicki Barbour, Lead Principal Investigator  
 
 ![](images/nicki.png)
 
@@ -12,13 +12,25 @@ Dr Nicki Barbour is an Assistant Professor at Towson University and runs the “
 
 ---
 
-### Dr. Harald Beck 
+### Dr. Harald Beck, Co-Principal Investigator
 
 ![](images/harald.png)
 
 Dr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland.  
 
-### Contact Us
+### Research Partners and Collaborators
+
+We work with a variety of amazing collaborators that collectively make this research possible, including:
+
+* Baltimore City Recreation and Parks (BCRP)
+
+![](images/cityofbaltimore.png)
+
+* The Urban Wildlife Information Network (UWIN)
+
+![](images/uwin.png)
+
+## Contact Us
 
 We would love to hear from you! 
 
