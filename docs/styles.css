@@ -138,22 +138,22 @@ a[href^="mailto:"]:hover {
 }
 
 /* HERO SECTION */
-/* HERO SECTION */
 .hero {
-  position: relative;
-  background-image: url('images/BCCP_Banner.png'); /* Banner image */
+  width: 100% !important;
+  height: 450px;
+  background-image: url('images/BCCP_Banner.png');
   background-size: cover;
   background-position: center;
-  height: 400px; /* adjust height as needed */
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
   text-align: center;
+  color: white;
+  margin-bottom: 50px;
 }
 
 .hero-text {
-  background-color: rgba(0, 0, 0, 0.5); /* semi-transparent overlay */
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 20px 40px;
   border-radius: 12px;
 }
@@ -161,6 +161,7 @@ a[href^="mailto:"]:hover {
 .hero h1 {
   font-size: 3em;
   margin-bottom: 10px;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .hero p {
@@ -174,84 +175,75 @@ a[href^="mailto:"]:hover {
 }
 
 /* IMAGE WRAP + CAPTION */
-.img-left-wrap, .img-right-wrap {
-  float: left; /* default left */
+.img-left-wrap {
+  float: left;
   max-width: 45%;
   margin: 0 20px 15px 0;
 }
 
 .img-right-wrap {
   float: right;
+  max-width: 45%;
   margin: 0 0 15px 20px;
 }
 
-.img-left-wrap img, .img-right-wrap img {
-  border-radius: 8px;
+.img-left-wrap img,
+.img-right-wrap img {
   width: 100%;
+  border-radius: 8px;
 }
 
 .caption {
   font-size: 0.9em;
   color: #555;
   text-align: center;
-  margin-top: 5px;
   font-style: italic;
+  margin-top: 5px;
 }
 
-/* CLEAR FLOATS */
 .clear {
   clear: both;
   margin-bottom: 20px;
 }
 
-/* CARDS CONTAINER */
+/* CARDS LAYOUT */
 .cards {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
   margin-bottom: 40px;
-  justify-content: center;
 }
 
-/* INDIVIDUAL CARD */
 .card {
-  background: white;
+  background-color: white;
   border-radius: 12px;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
   padding: 20px;
-  width: 280px;
+  flex: 1 1 300px; /* grow/shrink, min width 300px */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   text-align: center;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card img {
+  max-width: 150px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.card h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: darkblue;
+}
+
+.card p {
+  margin-bottom: 10px;
 }
 
 /* HOVER EFFECT */
 .card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-}
-
-/* CARD IMAGE */
-.card img {
-  border-radius: 50%;
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  margin-bottom: 15px;
-}
-
-/* CARD TITLES */
-.card h3 {
-  font-family: 'Libre Baskerville', serif;
-  color: darkblue;
-  margin-bottom: 8px;
-}
-
-/* CARD PARAGRAPH */
-.card p {
-  font-family: 'Source Sans 3', sans-serif;
-  font-size: 0.95em;
-  color: #333;
-  margin-bottom: 12px;
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
 }
 
 /* Paragraph spacing */
