@@ -6,8 +6,7 @@ format:
     theme: cosmo
 ---
 
-<!-- bio.qmd -->
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; width:100%; margin:0;">
+<div class="cards-container">
   <div class="card">
     <img src="images/nicki.png" alt="Dr. Nicki Barbour">
     <h3>Dr. Nicki Barbour</h3>
@@ -25,9 +24,7 @@ format:
   </div>
 </div>
 
----
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; width:100%; margin:0;">
+<div class="cards-container">
   <div class="card">
     <img src="images/cityofbaltimore.png" alt="Baltimore City Recreation and Parks">
     <h3>Baltimore City Recreation and Parks (BCRP)</h3>
