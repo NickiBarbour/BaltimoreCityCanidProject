@@ -1,12 +1,11 @@
 ---
 title: "Meet the Scientists"
-format:
-  html:
-    css: styles.css
-    theme: cosmo
 ---
 
-<div class="cards-container">
+## The Team
+
+<div class="cards">
+
   <div class="card">
     <img src="images/nicki.png" alt="Dr. Nicki Barbour">
     <h3>Dr. Nicki Barbour</h3>
@@ -22,18 +21,25 @@ format:
     <p>Dr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland.</p>
     <a href="mailto:baltimorecitycanidproject@gmail.com" class="btn-primary">Email</a>
   </div>
+
 </div>
 
-<div class="cards-container">
+---
+
+## Research Partners and Collaborators
+
+<div class="cards">
+
   <div class="card">
-    <img src="images/cityofbaltimore.png" alt="Baltimore City Recreation and Parks">
+    <img src="images/cityofbaltimore.png" alt="Baltimore City Recreation and Parks" style="width:150px">
     <h3>Baltimore City Recreation and Parks (BCRP)</h3>
   </div>
 
   <div class="card">
-    <img src="images/uwin.png" alt="UWIN">
+    <img src="images/uwin.png" alt="UWIN" style="width:150px">
     <h3>The Urban Wildlife Information Network (UWIN)</h3>
   </div>
+
 </div>
 
 ---
