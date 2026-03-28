@@ -2,39 +2,53 @@
 title: "Meet the Scientists"
 ---
 
-## The Team
+::: {.columns}
 
-### Dr. Nicki Barbour, Lead Principal Investigator  
+::: {.column width="50%"}
+![](images/nicki.png){width="80%"}
 
-![](images/nicki.png)
+### Dr. Nicki Barbour
+**Lead Principal Investigator**  
 
 Dr Nicki Barbour is an Assistant Professor at Towson University and runs the “Barbour Movement Ecology Lab” (BMEL), where she mentors students in wildlife research.   
 
----
+:::
 
-### Dr. Harald Beck, Co-Principal Investigator
+::: {.column width="50%"}
+![](images/harald.png){width="80%"}
+
+### Dr. Harald Beck
+**Co-Principal Investigator**
 
 ![](images/harald.png)
 
-Dr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland.  
+Dr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland. 
 
-### Research Partners and Collaborators
+:::
+
+:::
+
+---
+
+## Research Partners and Collaborators
 
 We work with a variety of amazing collaborators that collectively make this research possible, including:
 
-* Baltimore City Recreation and Parks (BCRP)
+### Baltimore City Recreation and Parks (BCRP)
 
-![](images/cityofbaltimore.png)
+![](images/cityofbaltimore.png){width="200px"}
 
-* The Urban Wildlife Information Network (UWIN)
+### The Urban Wildlife Information Network (UWIN)
 
-![](images/uwin.png)
+![](images/uwin.png){width="200px"}
+
+---
 
 ## Contact Us
 
 We would love to hear from you! 
 
-Question? Concerns? Email Baltimore City Canid Project below, we will respond ASAP.
+Question? Concerns? Email the Baltimore City Canid Project below!
 
 [📧 Email Baltimore City Canid Project](mailto:baltimorecitycanidproject@gmail.com)
 

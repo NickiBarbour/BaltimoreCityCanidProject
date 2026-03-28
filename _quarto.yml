@@ -12,8 +12,11 @@ website:
         href: bio.qmd
       - text: "Report Canid Sightings"
         href: report.qmd
+  page-footer:
+    center: "© Baltimore City Canid Project | Towson University"
 
 format:
   html:
     theme: cosmo
     css: styles.css
+    toc: false

@@ -6,7 +6,7 @@ title: ""
 
 ## Canids in the City
 
-![](images/coyote.png)
+![](images/coyote.png){fig-align="center" width="60%"}
 
 As human populations continue to grow, we see increasing impacts on wildlife. Some wildlife, such as coyotes and red foxes, have adapted to live alongside humans. But this can come at a cost, as living in densely populated urban areas like Baltimore City can put them at risk for eating contaminated food, getting hit by cars, and having other harmful interactions with humans. 
 
@@ -14,31 +14,31 @@ As human populations continue to grow, we see increasing impacts on wildlife. So
 
 Scientists at Towson University want to learn more about canids such as coyotes and foxes in the City. They want to answer questions such as: How many canids of each species are there? What times of day are they most active and does this put them at risk for interacting with humans? Are canids in the city healthy?
 
-![](images/CanidHealthFeedbackLoop.png)
+![](images/CanidHealthFeedbackLoop.png){fig-align="center" width="70%"}
 
 To do this, scientists have placed motion sensor cameras in various green spaces throughout the City. These cameras will be attached to trees in areas where wildlife might be and will trigger to take a photo when an animal passes in front. Photos are then labeled in the lab by experts to determine how many of each wildlife species there are in an area. Although the study will target canids, we likely will also get pictures of white-tailed deer, squirrels, and other native wildlife!
 
-![](images/cameratrap.png)
+![](images/cameratrap.png){fig-align="center" width="60%"}
 
-This study will be part of a national study on urban wildlife, “The Urban Wildlife Information Network” (UWIN, https://www.urbanwildlifeinfo.org/). UWIN protocols will be used to collect data, with cameras being put out for about a month in April, July, October, and December. 
+This study will be part of a national study on urban wildlife, the **Urban Wildlife Information Network” (UWIN)** (https://www.urbanwildlifeinfo.org/). UWIN protocols will be used to collect data, with cameras being put out for about a month in April, July, October, and December. 
 
 This will also be a student-involved project, and both undergraduate and graduate students at Towson University will be helping to collect and analyze data! 
 
 ## Common Questions & Answers
 
-* How do the cameras work?
+### How do the cameras work?
 
 The cameras detect motion from living things using passive infrared sensors, which detect infrared energy (heat) from living organisms. The cameras are set to take photos whenever triggered, storing the data on an SD card that can be uploaded for analysis in the lab.
 
-* Do you record humans on these cameras? 
+### Do you record humans on these cameras? 
 
 Cameras will detect humans if they pass in front but we do not keep any images of humans. If you have any concerns about this, please reach out to us at [baltimorecitycanidproject@gmail.com](mailto:baltimorecitycanidproject@gmail.com). 
 
-* Is it normal to see canids during the day?
+### Is it normal to see canids during the day?
 
 Canids that are adapted to living with humans may sometimes be more "bold" and/or be active during odd times of day. While this is sometimes a sign of disease (e.g., mange) it can also just be due to canids adapting to city life.
 
-* Will coyotes attack me, my kids, or my dog?
+### Will coyotes attack me, my kids, or my dog?
 
 Coyotes are much more shy than most people think. They don't like interacting with people and usually will avoid people by being more active in the later parts of the day (evening, night) and using greenspaces without people. They also do not actively target their hunting towards people's pets and their main prey is small wild mammals like rabbits and rodents, birds, and occasionally deer.
 

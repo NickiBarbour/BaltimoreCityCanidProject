@@ -2,31 +2,29 @@
 title: "Report Canid Sightings"
 ---
 
-## Report a Canid Sighting in Baltimore
-
 Did you see a canid in Baltimore City? Use the Google form below to tell us about your observation! 
 
 [Report a Canid Form](https://docs.google.com/forms/d/e/1FAIpQLSf6pvJl_Z8ZYNwEviXHC3q4v2fmsv1I2vn-pDvEoso4ZB4U8g/viewform?usp=header)
 
 Alternatively, you can also email us at [baltimorecitycanidproject@gmail.com](mailto:baltimorecitycanidproject@gmail.com) and tell us about your encounter! Please include the date, time, location, any photos, and any description of the canid's health and behavior. 
 
-### What are the "Canids"?
+## What are the "Canids"?
 
 Canids can include red foxes (*Vulpes vulpes*), gray foxes (*Urocyon cinereoargentius*), coyotes (*Canis latrans*), or even off-leash domestic dogs. To help ID a specific canid for your report, use the following guide:
 
-* **Red Fox**: Key characteristics include a reddish-brown coat, bushy tail with a white tip, upright triangular ears, long muzzle, and long legs with black coloration. Red foxes are particularly vulnerable to mange and when infected, will often look hairless and skinny.
+### **Red Fox**: Key characteristics include a reddish-brown coat, bushy tail with a white tip, upright triangular ears, long muzzle, and long legs with black coloration. Red foxes are particularly vulnerable to mange and when infected, will often look hairless and skinny.
 
-![](images/redfox.png)
+![](images/redfox.png){width="50%"}
 
-![](images/redfox_mange.png)
+![](images/redfox_mange.png){width="50%"}
 
-* **Gray Fox**: Key characteristics include a more "cat-like" appearance compared to red foxes, with gray foxes having smaller bodies, shorter legs, shorter/small muzzles, rusty gray coat, and a shorter tail with a black tip.
+### **Gray Fox**: Key characteristics include a more "cat-like" appearance compared to red foxes, with gray foxes having smaller bodies, shorter legs, shorter/small muzzles, rusty gray coat, and a shorter tail with a black tip.
 
-![](images/grayfox.png)
+![](images/grayfox.png){width="50%"}
 
-* **Coyote**: Key characteristics include long pointy ears, long muzzles, long legs, long tail, and sandy brown coat. They often are confused with German Shepherds and are much larger than foxes.
+### **Coyote**: Key characteristics include long pointy ears, long muzzles, long legs, long tail, and sandy brown coat. They often are confused with German Shepherds and are much larger than foxes.
 
-![](images/coyote2.png)
+![](images/coyote2.png){width="50%"}
 
 
 
