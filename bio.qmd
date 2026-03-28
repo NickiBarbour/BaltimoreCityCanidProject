@@ -2,43 +2,43 @@
 title: "Meet the Scientists"
 ---
 
-::: {.columns}
+<div class="cards">
 
-::: {.column width="50%"}
-![](images/nicki.png)
+  <div class="card">
+    <img src="images/nicki.png" alt="Dr. Nicki Barbour">
+    <h3>Dr. Nicki Barbour</h3>
+    <p><strong>Lead Principal Investigator</strong></p>
+    <p>Dr Nicki Barbour is an Assistant Professor at Towson University and runs the “Barbour Movement Ecology Lab” (BMEL), where she mentors students in wildlife research.</p>
+    <a href="mailto:baltimorecitycanidproject@gmail.com" class="btn-primary">Email</a>
+  </div>
 
-### Dr. Nicki Barbour
-**Lead Principal Investigator**  
+  <div class="card">
+    <img src="images/harald.png" alt="Dr. Harald Beck">
+    <h3>Dr. Harald Beck</h3>
+    <p><strong>Co-Principal Investigator</strong></p>
+    <p>Dr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland.</p>
+    <a href="mailto:baltimorecitycanidproject@gmail.com" class="btn-primary">Email</a>
+  </div>
 
-Dr Nicki Barbour is an Assistant Professor at Towson University and runs the “Barbour Movement Ecology Lab” (BMEL), where she mentors students in wildlife research.   
-
-:::
-
-::: {.column width="50%"}
-![](images/harald.png)
-
-### Dr. Harald Beck
-**Co-Principal Investigator**
-
-Dr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland. 
-
-:::
-
-:::
+</div>
 
 ---
 
 ## Research Partners and Collaborators
 
-We work with a variety of amazing collaborators that collectively make this research possible, including:
+<div class="cards">
 
-### Baltimore City Recreation and Parks (BCRP)
+  <div class="card">
+    <img src="images/cityofbaltimore.png" alt="Baltimore City Recreation and Parks" style="width:150px">
+    <h3>Baltimore City Recreation and Parks (BCRP)</h3>
+  </div>
 
-![](images/cityofbaltimore.png){width="200px"}
+  <div class="card">
+    <img src="images/uwin.png" alt="UWIN" style="width:150px">
+    <h3>The Urban Wildlife Information Network (UWIN)</h3>
+  </div>
 
-### The Urban Wildlife Information Network (UWIN)
-
-![](images/uwin.png){width="200px"}
+</div>
 
 ---
 

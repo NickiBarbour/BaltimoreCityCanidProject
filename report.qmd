@@ -14,6 +14,10 @@ Alternatively, you can also email us at [baltimorecitycanidproject@gmail.com](ba
 
 Canids can include red foxes (*Vulpes vulpes*), gray foxes (*Urocyon cinereoargentius*), coyotes (*Canis latrans*), or even off-leash domestic dogs. To help ID a specific canid for your report, use the following guide:
 
+<br>
+
+---
+
 ### **Red Fox**
 
 Key characteristics include a reddish-brown coat, bushy tail with a white tip, upright triangular ears, long muzzle, and long legs with black coloration. Red foxes are particularly vulnerable to mange and when infected, will often look hairless and skinny.
@@ -22,6 +26,10 @@ Key characteristics include a reddish-brown coat, bushy tail with a white tip, u
   <img src="images/redfox.png">
   <div class="caption">Red fox. Photo from the Maryland Department of Natural Resources.</div>
 </div>
+
+<br>
+
+---
 
 ### **Gray Fox**
 
@@ -32,6 +40,9 @@ Key characteristics include a more "cat-like" appearance compared to red foxes, 
   <div class="caption">Gray fox. Photo from the Maryland Department of Natural Resources.</div>
 </div>
 
+<br>
+
+---
 
 ### **Coyote**
 
@@ -41,4 +52,5 @@ Key characteristics include long pointy ears, long muzzles, long legs, long tail
   <img src="images/coyote2.png">
   <div class="caption">Coyote. Photo from the Maryland Department of Natural Resources.</div>
 </div>
+
 

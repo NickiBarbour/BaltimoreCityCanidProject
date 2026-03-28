@@ -11,7 +11,6 @@ title: ""
   </div>
 </div>
 
-![](images/BCCP_Banner.png)
 
 ## Canids in the City
 
@@ -21,6 +20,10 @@ title: ""
 </div>
 
 As human populations continue to grow, we see increasing impacts on wildlife. Some wildlife, such as coyotes and red foxes, have adapted to live alongside humans. But this can come at a cost, as living in densely populated urban areas like Baltimore City can put them at risk for eating contaminated food, getting hit by cars, and having other harmful interactions with humans. 
+
+<br>
+
+---
 
 
 ## What's the Baltimore City Canid Project?
@@ -43,6 +46,10 @@ To do this, scientists have placed motion sensor cameras in various green spaces
 This study will be part of a national study on urban wildlife, the **Urban Wildlife Information Network (UWIN)** (https://www.urbanwildlifeinfo.org/). UWIN protocols will be used to collect data, with cameras being put out for about a month in April, July, October, and December. 
 
 This will also be a student-involved project, and both undergraduate and graduate students at Towson University will be helping to collect and analyze data! 
+
+<br>
+
+---
 
 ## Common Questions & Answers
 

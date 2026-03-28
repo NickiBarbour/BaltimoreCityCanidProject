@@ -218,3 +218,53 @@ a[href^="mailto:"]:hover {
   margin-top: 5px;
   text-align: center;
 }
+
+/* CARDS CONTAINER */
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-bottom: 40px;
+  justify-content: center;
+}
+
+/* INDIVIDUAL CARD */
+.card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+  padding: 20px;
+  width: 280px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* HOVER EFFECT */
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+/* CARD IMAGE */
+.card img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+/* CARD TITLES */
+.card h3 {
+  font-family: 'Libre Baskerville', serif;
+  color: darkblue;
+  margin-bottom: 8px;
+}
+
+/* CARD PARAGRAPH */
+.card p {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 0.95em;
+  color: #333;
+  margin-bottom: 12px;
+}
