@@ -2,12 +2,23 @@
 title: ""
 ---
 
+<div class="hero">
+  <div class="hero-text">
+    <h1>Baltimore City Canid Project</h1>
+    <p>Understanding urban coyotes and foxes in Baltimore City</p>
+    
+    <a href="report.qmd" class="btn-primary">Report a Sighting</a>
+  </div>
+</div>
+
 ![](images/BCCP_Banner.png)
 
 ## Canids in the City
 
-![](images/coyote.png){.img-left}
-*Coyote in a MD city. Photo from Maryland Fur Trappers.*
+<div class="img-left-wrap">
+  <img src="images/coyote.png">
+  <div class="caption">Coyote in a MD city. Photo from Maryland Fur Trappers.</div>
+</div>
 
 As human populations continue to grow, we see increasing impacts on wildlife. Some wildlife, such as coyotes and red foxes, have adapted to live alongside humans. But this can come at a cost, as living in densely populated urban areas like Baltimore City can put them at risk for eating contaminated food, getting hit by cars, and having other harmful interactions with humans. 
 
@@ -16,16 +27,17 @@ As human populations continue to grow, we see increasing impacts on wildlife. So
 
 Scientists at Towson University want to learn more about canids such as coyotes and foxes in the City. They want to answer questions such as: How many canids of each species are there? What times of day are they most active and does this put them at risk for interacting with humans? Are canids in the city healthy?
 
-![](images/CanidHealthFeedbackLoop.png){.img-right}
-*Positive feedback loop between urbanization and canid health. Canids in urban areas may have a higher proportion of nuisance rodents in their diet, which may have higher concentrations of poisons (rodenticides) that can bioaccumulate and put canids at risk of disease. Diseased canids may have altered behavior, including being more active during the day and more likely to cross busy roads.*
-
-
-<div class="clear"></div>
+<div class="img-right-wrap">
+  <img src="images/CanidHealthFeedbackLoop.png">
+  <div class="caption">Positive feedback loop between urbanization and canid health. Canids in urban areas may have a higher proportion of nuisance rodents in their diet, which may have higher concentrations of poisons (rodenticides) that can bioaccumulate and put canids at risk of disease. Diseased canids may have altered behavior, including being more active during the day and more likely to cross busy roads.</div>
+</div>
 
 To do this, scientists have placed motion sensor cameras in various green spaces throughout the City. These cameras will be attached to trees in areas where wildlife might be and will trigger to take a photo when an animal passes in front. Photos are then labeled in the lab by experts to determine how many of each wildlife species there are in an area. Although the study will target canids, we likely will also get pictures of white-tailed deer, squirrels, and other native wildlife!
 
-![](images/cameratrap.png){.img-right}
-*Wildlife camera attached to a tree. Photo from UWIN.*
+<div class="img-left-wrap">
+  <img src="images/cameratrap.png">
+  <div class="caption">Wildlife camera attached to a tree. Photo from UWIN.</div>
+</div>
 
 
 This study will be part of a national study on urban wildlife, the **Urban Wildlife Information Network (UWIN)** (https://www.urbanwildlifeinfo.org/). UWIN protocols will be used to collect data, with cameras being put out for about a month in April, July, October, and December. 
@@ -40,7 +52,7 @@ The cameras detect motion from living things using passive infrared sensors, whi
 
 ### Do you record humans on these cameras? 
 
-Cameras will detect humans if they pass in front but we do not keep any images of humans. If you have any concerns about this, please reach out to us at [baltimorecitycanidproject@gmail.com](mailto:baltimorecitycanidproject@gmail.com). 
+Cameras will detect humans if they pass in front but we do not keep any images of humans. If you have any concerns about this, please reach out to us at [baltimorecitycanidproject@gmail.com](baltimorecitycanidproject@gmail.com). 
 
 ### Is it normal to see canids during the day?
 
