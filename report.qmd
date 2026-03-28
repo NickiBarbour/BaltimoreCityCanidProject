@@ -27,7 +27,7 @@ Key characteristics include a reddish-brown coat, bushy tail with a white tip, u
   <div class="caption">Red fox. Photo from the Maryland Department of Natural Resources.</div>
 </div>
 
-<br>
+<div class="clear"></div>
 
 ---
 
@@ -40,7 +40,7 @@ Key characteristics include a more "cat-like" appearance compared to red foxes, 
   <div class="caption">Gray fox. Photo from the Maryland Department of Natural Resources.</div>
 </div>
 
-<br>
+<div class="clear"></div>
 
 ---
 
@@ -53,4 +53,4 @@ Key characteristics include long pointy ears, long muzzles, long legs, long tail
   <div class="caption">Coyote. Photo from the Maryland Department of Natural Resources.</div>
 </div>
 
-
+<div class="clear"></div>
