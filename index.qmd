@@ -6,15 +6,15 @@ format:
     theme: cosmo
 ---
 
-::: {.full-width}
-<div class="hero">
-  <div class="hero-text">
-    <h1>Baltimore City Canid Project</h1>
-    <p>Understanding urban coyotes and foxes in Baltimore City</p>
-    <a href="report.qmd" class="btn-primary">Report a Sighting</a>
+<div style="width:100%; margin:0; padding:0;">
+  <div class="hero">
+    <div class="hero-text">
+      <h1>Baltimore City Canid Project</h1>
+      <p>Understanding urban coyotes and foxes in Baltimore City</p>
+      <a href="report.qmd" class="btn-primary">Report a Sighting</a>
+    </div>
   </div>
 </div>
-:::
 
 
 ## Canids in the City
@@ -42,6 +42,8 @@ Scientists at Towson University want to learn more about canids such as coyotes 
 
 <div class="clear"></div>
 
+---
+
 To do this, scientists have placed motion sensor cameras in various green spaces throughout the City. These cameras will be attached to trees in areas where wildlife might be and will trigger to take a photo when an animal passes in front. Photos are then labeled in the lab by experts to determine how many of each wildlife species there are in an area. Although the study will target canids, we likely will also get pictures of white-tailed deer, squirrels, and other native wildlife!
 
 <div class="img-left-wrap">
@@ -50,6 +52,8 @@ To do this, scientists have placed motion sensor cameras in various green spaces
 </div>
 
 <div class="clear"></div>
+
+---
 
 
 This study will be part of a national study on urban wildlife, the [Urban Wildlife Information Network (UWIN)] (https://www.urbanwildlifeinfo.org/). UWIN protocols will be used to collect data, with cameras being put out for about a month in April, July, October, and December. 

@@ -6,9 +6,8 @@ format:
     theme: cosmo
 ---
 
-::: {.full-width}
-<div class="cards">
-
+<!-- bio.qmd -->
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; width:100%; margin:0;">
   <div class="card">
     <img src="images/nicki.png" alt="Dr. Nicki Barbour">
     <h3>Dr. Nicki Barbour</h3>
@@ -24,15 +23,11 @@ format:
     <p>Dr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland.</p>
     <a href="mailto:baltimorecitycanidproject@gmail.com" class="btn-primary">Email</a>
   </div>
-
 </div>
-:::
 
 ---
 
-::: {.full-width}
-<div class="cards">
-
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; width:100%; margin:0;">
   <div class="card">
     <img src="images/cityofbaltimore.png" alt="Baltimore City Recreation and Parks">
     <h3>Baltimore City Recreation and Parks (BCRP)</h3>
@@ -42,9 +37,7 @@ format:
     <img src="images/uwin.png" alt="UWIN">
     <h3>The Urban Wildlife Information Network (UWIN)</h3>
   </div>
-
 </div>
-:::
 
 ---
 
