@@ -1,0 +1,21 @@
+---
+title: "Report Canid Sightings"
+---
+
+## Report a Canid Sighting in Baltimore
+
+Did you see a canid in Baltimore City? Use the Google form below to tell us about your observation! 
+
+[Report a Canid Form](https://docs.google.com/forms/d/e/1FAIpQLSf6pvJl_Z8ZYNwEviXHC3q4v2fmsv1I2vn-pDvEoso4ZB4U8g/viewform?usp=header)
+
+Alternatively, you can also email us at baltimorecitycanidproject@gmail.com and tell us about your encounter! Please include the date, time, location, any photos, and any description of the canid's health and behavior. 
+
+## Map of Recent Canid Sightings in Baltimore
+
+```{r}
+library(mapview)
+
+# Example map (replace with your data)
+mapview::mapview(breweries)
+```
+

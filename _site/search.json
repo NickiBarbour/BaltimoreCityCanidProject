@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "report.html",
+    "href": "report.html",
+    "title": "Report Canid Sightings",
+    "section": "",
+    "text": "Did you see a canid in Baltimore City? Use the Google form below to tell us about your observation!\nReport a Canid Form\nAlternatively, you can also email us at baltimorecitycanidproject@gmail.com and tell us about your encounter! Please include the date, time, location, any photos, and any description of the canid’s health and behavior."
+  },
+  {
+    "objectID": "report.html#report-a-canid-sighting-in-baltimore",
+    "href": "report.html#report-a-canid-sighting-in-baltimore",
+    "title": "Report Canid Sightings",
+    "section": "",
+    "text": "Did you see a canid in Baltimore City? Use the Google form below to tell us about your observation!\nReport a Canid Form\nAlternatively, you can also email us at baltimorecitycanidproject@gmail.com and tell us about your encounter! Please include the date, time, location, any photos, and any description of the canid’s health and behavior."
+  },
+  {
+    "objectID": "report.html#map-of-recent-canid-sightings-in-baltimore",
+    "href": "report.html#map-of-recent-canid-sightings-in-baltimore",
+    "title": "Report Canid Sightings",
+    "section": "Map of Recent Canid Sightings in Baltimore",
+    "text": "Map of Recent Canid Sightings in Baltimore\n\nlibrary(mapview)\n\n# Example map (replace with your data)\nmapview::mapview(breweries)"
+  },
+  {
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "Meet the Scientists",
+    "section": "",
+    "text": "Dr Nicki Barbour is an Assistant Professor at Towson University and runs the “Barbour Movement Ecology Lab” (BMEL), where she mentors students in wildlife research.\n\n\n\n\n\nDr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland.\n\n\n\nWe would love to hear from you!\nQuestion? Concerns? Email Baltimore City Canid Project below, we will respond ASAP.\n📧 Email Baltimore City Canid Project"
+  },
+  {
+    "objectID": "bio.html#the-team",
+    "href": "bio.html#the-team",
+    "title": "Meet the Scientists",
+    "section": "",
+    "text": "Dr Nicki Barbour is an Assistant Professor at Towson University and runs the “Barbour Movement Ecology Lab” (BMEL), where she mentors students in wildlife research.\n\n\n\n\n\nDr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland.\n\n\n\nWe would love to hear from you!\nQuestion? Concerns? Email Baltimore City Canid Project below, we will respond ASAP.\n📧 Email Baltimore City Canid Project"
+  },
+  {
+    "objectID": "index.html#canids-in-the-city",
+    "href": "index.html#canids-in-the-city",
+    "title": "Baltimore City Canid Project",
+    "section": "Canids in the City",
+    "text": "Canids in the City\nAs human populations continue to grow, we see increasing impacts on wildlife. Some wildlife, such as coyotes and red foxes, have adapted to live alongside humans. But this can come at a cost, as living in densely populated urban areas like Baltimore City can put them at risk for eating contaminated food, getting hit by cars, and having other harmful interactions with humans."
+  },
+  {
+    "objectID": "index.html#whats-the-baltimore-city-canid-project",
+    "href": "index.html#whats-the-baltimore-city-canid-project",
+    "title": "Baltimore City Canid Project",
+    "section": "What’s the Baltimore City Canid Project?",
+    "text": "What’s the Baltimore City Canid Project?\nScientists at Towson University want to learn more about canids such as coyotes and foxes in the City. They want to answer questions such as: How many canids of each species are there? What times of day are they most active and does this put them at risk for interacting with humans? Are canids in the city healthy?\nTo do this, they are planning to use motion sensor cameras in various green spaces throughout the City. These cameras will be attached to trees in areas where wildlife might be and will trigger to take a photo when an animal passes in front. Photos are then labeled in the lab by experts to determine how many of each wildlife species there are in an area. Although the study will target canids, we likely will also get pictures of white-tailed deer, squirrels, and other native wildlife!\nThis study will be part of a national study on urban wildlife, “The Urban Wildlife Information Network” (UWIN). UWIN protocols will be used to collect data, with cameras being put out for about a month in April, July, October, and December.\nThis will also be a student-involved project, and both undergraduate and graduate students at Towson University will be helping to collect and analyze data!"
+  }
+]
