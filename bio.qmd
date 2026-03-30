@@ -7,12 +7,13 @@ format:
 
 ## The Team
 
+```{=html}
 <div class="cards">
   <div class="card">
     <img src="images/nicki.png" alt="Dr. Nicki Barbour">
     <h3>Dr. Nicki Barbour</h3>
     <p><strong>Lead Principal Investigator</strong></p>
-    <p>Dr Nicki Barbour is an Assistant Professor at Towson University and runs the “Barbour Movement Ecology Lab” (BMEL), where she mentors students in wildlife research.</p>
+    <p>Dr Nicki Barbour is an Assistant Professor at Towson University and runs the "Barbour Movement Ecology Lab" (BMEL), where she mentors students in wildlife research.</p>
     <a href="mailto:baltimorecitycanidproject@gmail.com" class="btn-primary">Email</a>
   </div>
 
@@ -24,11 +25,13 @@ format:
     <a href="mailto:baltimorecitycanidproject@gmail.com" class="btn-primary">Email</a>
   </div>
 </div>
+```
 
 ---
 
 ## Research Partners
 
+```{=html}
 <div class="cards">
   <div class="card">
     <img src="images/cityofbaltimore.png" alt="Baltimore City Recreation and Parks">
@@ -40,11 +43,12 @@ format:
     <h3>The Urban Wildlife Information Network (UWIN)</h3>
   </div>
 </div>
+```
 
 ---
 
 ## Contact Us
 
-[📧 Email Baltimore City Canid Project](mailto:baltimorecitycanidproject@gmail.com)
-
-
+```{=html}
+<a href="mailto:baltimorecitycanidproject@gmail.com" class="btn-primary">📧 Email Baltimore City Canid Project</a>
+```
