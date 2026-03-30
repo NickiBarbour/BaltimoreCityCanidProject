@@ -14,7 +14,7 @@ format:
     <h3>Dr. Nicki Barbour</h3>
     <p><strong>Lead Principal Investigator</strong></p>
     <p>Dr Nicki Barbour is an Assistant Professor at Towson University and runs the "Barbour Movement Ecology Lab" (BMEL), where she mentors students in wildlife research.</p>
-    <a href="mailto:nbarbour@towson.edu" class="btn-primary">Email</a>
+    <a href="https://www.towson.edu/fcsm/departments/biology/facultystaff/nicole-barbour.html" class="btn-primary" target="_blank">Dr Nicki's Webpage</a>
   </div>
 
   <div class="card">
@@ -22,7 +22,7 @@ format:
     <h3>Dr. Harald Beck</h3>
     <p><strong>Co-Principal Investigator</strong></p>
     <p>Dr Harald Beck is a Professor at Towson University and has previously used camera-trapping to research mammals in the Amazon and in Maryland.</p>
-    <a href="mailto:hbeck@towson.edu" class="btn-primary">Email</a>
+    <a href="https://www.towson.edu/fcsm/departments/biology/facultystaff/hbeck.html" class="btn-primary" target="_blank">Dr Beck's Webpage</a>
   </div>
 </div>
 ```
@@ -49,7 +49,7 @@ format:
 
 ## Contact Us
 
-You can email us at baltimorecitycanidproject@gmail.com or click the button below:
+Email us at baltimorecitycanidproject@gmail.com or click the link below:
 
 ```{=html}
 <a href="mailto:baltimorecitycanidproject@gmail.com" class="btn-primary">📧 Email Baltimore City Canid Project</a>

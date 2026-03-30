@@ -13,6 +13,8 @@ Did you see a canid in Baltimore City? Use the Google form below to tell us abou
 </a>
 ```
 
+<br>
+
 Alternatively, you can also email us:
 
 ```{=html}
